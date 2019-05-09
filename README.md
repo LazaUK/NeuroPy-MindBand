@@ -6,7 +6,7 @@ Sichiray's MindBand uses the chipset from the same vendor, so it's almost fully 
 
 ## Installation
 
-1. Download the source distribution (zip file) from [dist directory](https://github.com/lihas/NeuroPy/tree/master/dist) 
+1. Download the source distribution (zip file) from [dist directory](https://github.com/LazaUK/NeuroPy-MindBand/archive/master.zip) 
 2. unzip and navigate to the folder containing _setup.py_ and other files 
 3. run the following command: 
 `python setup.py install` 
