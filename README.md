@@ -25,3 +25,6 @@ Sichiray's MindBand uses the chipset from the same vendor, so it's almost fully 
 Supported variables: attention, meditation, rawValue, delta, theta, lowAlpha, highAlpha, lowBeta, highBeta, lowGamma, midGamma,  poorSignal and blinkStrength
 
 ## Examples:
+
+* Sahil's example can be found in sahil_demo.py file
+* My example can be found in laziz_demo.py file
