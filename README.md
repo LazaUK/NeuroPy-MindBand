@@ -26,5 +26,5 @@ Supported variables: attention, meditation, rawValue, delta, theta, lowAlpha, hi
 
 ## Examples:
 
-* Sahil's example can be found in sahil_demo.py file
-* My example can be found in laziz_demo.py file
+* Sahil's example can be found in [sahil_demo.py] (https://github.com/LazaUK/NeuroPy-MindBand/blob/master/Examples/lihas_demo.py) file
+* My example can be found in [laziz_demo.py] (https://github.com/LazaUK/NeuroPy-MindBand/blob/master/Examples/laziz_demo.py) file
